@@ -83,3 +83,7 @@ How to generate a Gource video:
 #### uzLib.Lite
 
 [![...](https://img.youtube.com/vi/VXEyy9fOnBc/maxresdefault.jpg)](https://www.youtube.com/watch?v=VXEyy9fOnBc&list=PLm_JmdfuMZ5BPTYTF_x1tK9pkt-UCxI7j&index=19)
+
+#### DepotToolkit
+
+[![...](https://img.youtube.com/vi/T-XZ8Xt7lrA/maxresdefault.jpg)](https://www.youtube.com/watch?v=T-XZ8Xt7lrA&list=PLm_JmdfuMZ5BPTYTF_x1tK9pkt-UCxI7j&index=20)
