@@ -54,7 +54,7 @@ How to generate a Gource video:
 
 #### SMF Bot
 
-[![...](https://img.youtube.com/vi/btGsaYEpih8/maxresdefault.jpg)]https://www.youtube.com/watch?v=btGsaYEpih8&list=PLm_JmdfuMZ5BPTYTF_x1tK9pkt-UCxI7j&index=12)
+[![...](https://img.youtube.com/vi/btGsaYEpih8/maxresdefault.jpg)](https://www.youtube.com/watch?v=btGsaYEpih8&list=PLm_JmdfuMZ5BPTYTF_x1tK9pkt-UCxI7j&index=12)
 
 #### servers.vizzuta.net
 
